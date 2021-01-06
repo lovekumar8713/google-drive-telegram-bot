@@ -1,9 +1,9 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "1566771062:AAEo3hxgV7hQQvNnEQSazt5cqyhnl0OOXMs"
+    APP_ID = "2860030"
+    API_HASH = "f41e12d6ed6937e26381f42600b55cef"
+    DATABASE_URL = "postgres://tojylgnyhtwbab:5ef38a3b7d73d5fd0f076cf3b5ef300ea7759c1e1efea2a6b3f16439a2197ea0@ec2-52-205-61-60.compute-1.amazonaws.com:5432/dd9jdlg9k1igf6"
+    SUDO_USERS = "992757253" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
 
